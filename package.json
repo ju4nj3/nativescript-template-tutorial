@@ -1,0 +1,17 @@
+{
+  "name": "nativescript-template-tutorial",
+  "version": "0.1.0",
+  "main": "app.js",
+  "description": "Template for starting the NativeScript Getting Started Tutorial",
+  "repository": "https://github.com/tjvantoll/nativescript-template-tutorial",
+  "nativescript": {
+    "id": "org.nativescript.tutorial"
+  },
+  "dependencies": {
+    "nativescript-theme-core": "~1.0.2",
+    "tns-core-modules": "2.4.4"
+  },
+  "devDependencies": {
+    "nativescript-dev-android-snapshot": "^0.*.*"
+  }
+}
