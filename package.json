@@ -1,6 +1,6 @@
 {
   "name": "nativescript-template-tutorial",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "app.js",
   "description": "Template for starting the NativeScript Getting Started Tutorial",
   "repository": "https://github.com/tjvantoll/nativescript-template-tutorial",
